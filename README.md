@@ -49,7 +49,7 @@ This reveals that more sales don't always equal more profit, it depends on how e
 -   The **56--65** group bought things in moderation with **Electronics** leading.
 
 Beauty and fashion appeal more to younger customers, while older customers go for durable products like Electronics.
-![image alt](Does_age_influnce_the_the_type_of_categor_purchased.jpg)
+![image alt](xhttps://github.com/She-yii/Retail-Sales-Profit-Analysis/blob/5dc72b545754de713f0cdc044a0f575cc3696d8b/Does_age_influnce_the_type_of_category_purchased.jpg)
 
 ------------------------------------------------------------------------
 
