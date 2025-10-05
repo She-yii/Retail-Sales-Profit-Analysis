@@ -37,6 +37,7 @@ This shows that all three are doing relatively well with Electronics taking the 
 -   **Beauty** had both lower sales and lower margin (31%).
 
 This reveals that more sales don't always equal more profit, it depends on how efficiently the category performs.
+https://github.com/She-yii/Retail-Sales-Profit-Analysis/blob/77544a7319cebc3cd24b8b7fade0e7e99cddb5c7/Do_high_sales_categories_deliver_strong_margin.jpg
 
 ------------------------------------------------------------------------
 
