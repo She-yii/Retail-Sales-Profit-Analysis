@@ -61,6 +61,7 @@ The line chart shows how sales moved from month to month.
 - Comparing both years, **2023 did better overall** because there was a more stable and upward flow of sales.
 
 Sales are seasonal, businesses can plan their stock better in these periods.
+![image alt](https://github.com/She-yii/Retail-Sales-Profit-Analysis/blob/309a11f084301638bb6da00e01ce30ea6eab7150/Sales_trend_over_time.jpg)
 
 ------------------------------------------------------------------------
 
