@@ -27,7 +27,7 @@ Here's what I wanted to find out from the data:
 -   **Beauty** recorded the lowest at **₦704K**.
 
 This shows that all three are doing relatively well with Electronics taking the lead.
-![Which_category_generates_the_highest_profit](Which_category_generate_the_highest_profit) 
+![Which_category_generates_the_highest_profit](Which_category_generate_the_highest_profit.jpg) 
 
 ------------------------------------------------------------------------
 
