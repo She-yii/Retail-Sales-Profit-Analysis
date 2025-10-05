@@ -27,6 +27,7 @@ Here's what I wanted to find out from the data:
 -   **Beauty** recorded the lowest at **₦704K**.
 
 This shows that all three are doing relatively well with Electronics taking the lead.
+![image alt](https://github.com/She-yii/Retail-Sales-Profit-Analysis/blob/77544a7319cebc3cd24b8b7fade0e7e99cddb5c7/Do_high_sales_categories_deliver_strong_margin.jpg)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +48,7 @@ This reveals that more sales don't always equal more profit, it depends on how e
 -   The **56--65** group bought things in moderation with **Electronics** leading.
 
 Beauty and fashion appeal more to younger customers, while older customers go for durable products like Electronics.
-![image alt](https://github.com/She-yii/Retail-Sales-Profit-Analysis/blob/77544a7319cebc3cd24b8b7fade0e7e99cddb5c7/Do_high_sales_categories_deliver_strong_margin.jpg)
+![image alt]( )
 
 ------------------------------------------------------------------------
 
